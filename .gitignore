@@ -1,0 +1,5 @@
+# MATLAB/Simulink build cache and run outputs
+slprj/
+*.slxc
+*.asv
+results/
